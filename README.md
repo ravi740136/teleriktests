@@ -1,0 +1,4 @@
+teleriktests
+============
+
+strikers telerik tests
